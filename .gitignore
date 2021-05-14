@@ -1,2 +1,3 @@
 node_modules/
 aws_good_parts.pem
+aws_credentials.sh
